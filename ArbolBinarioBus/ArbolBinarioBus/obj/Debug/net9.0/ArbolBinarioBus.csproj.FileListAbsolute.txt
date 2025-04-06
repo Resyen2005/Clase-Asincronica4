@@ -1,0 +1,15 @@
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\bin\Debug\net9.0\ArbolBinarioBus.exe
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\bin\Debug\net9.0\ArbolBinarioBus.deps.json
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\bin\Debug\net9.0\ArbolBinarioBus.runtimeconfig.json
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\bin\Debug\net9.0\ArbolBinarioBus.dll
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\bin\Debug\net9.0\ArbolBinarioBus.pdb
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\obj\Debug\net9.0\ArbolBinarioBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\obj\Debug\net9.0\ArbolBinarioBus.AssemblyInfoInputs.cache
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\obj\Debug\net9.0\ArbolBinarioBus.AssemblyInfo.cs
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\obj\Debug\net9.0\ArbolBinarioBus.csproj.CoreCompileInputs.cache
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\obj\Debug\net9.0\ArbolBinarioBus.sourcelink.json
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\obj\Debug\net9.0\ArbolBinarioBus.dll
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\obj\Debug\net9.0\refint\ArbolBinarioBus.dll
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\obj\Debug\net9.0\ArbolBinarioBus.pdb
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\obj\Debug\net9.0\ArbolBinarioBus.genruntimeconfig.cache
+C:\Users\RESYEN\source\repos\Resyen2005\Clase-Asincronica4\ArbolBinarioBus\ArbolBinarioBus\obj\Debug\net9.0\ref\ArbolBinarioBus.dll

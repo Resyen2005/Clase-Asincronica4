@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArbolBinarioBus", "ArbolBinarioBus\ArbolBinarioBus.csproj", "{473E3C36-1956-414F-A3CF-E30929730334}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PruebasArbolBus", "PruebasArbolBus\PruebasArbolBus.csproj", "{CAB8B1B6-47BB-45FD-B058-4A789E09BE48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{473E3C36-1956-414F-A3CF-E30929730334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473E3C36-1956-414F-A3CF-E30929730334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473E3C36-1956-414F-A3CF-E30929730334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473E3C36-1956-414F-A3CF-E30929730334}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAB8B1B6-47BB-45FD-B058-4A789E09BE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAB8B1B6-47BB-45FD-B058-4A789E09BE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAB8B1B6-47BB-45FD-B058-4A789E09BE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAB8B1B6-47BB-45FD-B058-4A789E09BE48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A4C61B0-6642-4B2B-ADB1-4872358143D5}
+	EndGlobalSection
+EndGlobal
